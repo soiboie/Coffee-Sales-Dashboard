@@ -1,6 +1,6 @@
 # ☕ Coffee Sales Dashboard
 
-This project is a dynamic Excel dashboard designed to analyze and visualize coffee sales data from January to July 2019. It uses interactive visuals to provide clear insights into sales performance, customer behavior, and country-wise distribution.
+This project is a dynamic Excel dashboard designed to analyze and visualize coffee sales data from 2019 to 2022. It uses interactive visuals to provide clear insights into sales performance, customer behavior, and country-wise distribution.
 
 ---
 
